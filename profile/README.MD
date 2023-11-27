@@ -1,4 +1,4 @@
-![Map Image](./images/mappedin-github-header.png)
+![Map Image](https://github.com/MappedIn/.github/blob/master/profile/images/mappedin-github-header.png?raw=true)
 
 ## Maps unlock your indoor spaces
 
